@@ -1,0 +1,45 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+    font-size:20px;
+}
+p, h1
+{
+    color: black;
+}
+
+
+h1 {
+    color: darkgreen;
+}
+
+hr.new1 {
+  border: 1px solid darkgreen;
+}
+
+.address1 {
+    vertical-align: top;
+}
+.button {
+ 
+    background-color: darkgrey;
+    color: lightgoldenrodyellow;
+    border-radius: 25px;
+    width: 120px;
+    padding: 2px;
+    margin:0 50%; 
+    position:relative;
+    left: -68px;
+
+}
+textarea {
+
+        width: 170px;
+        height: 100px;
+        overflow-y: scroll;
+}
+
+.select1 {
+
+    width: 5000px;
+}

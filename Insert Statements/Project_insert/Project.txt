@@ -1,0 +1,10 @@
+INSERT INTO Project(proj_id,proj_name) VALUES ('p000','Sensors');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p001','Motor Controls');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p002','User Interface');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p003','Interconnectivity');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p004','Power Systems');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p005','Voice Recognition');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p006','Website Design');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p007','Backend Development');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p008','Embedded Systems');
+INSERT INTO Project(proj_id,proj_name) VALUES ('p009','Artificial Intelligence');

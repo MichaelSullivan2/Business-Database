@@ -1,0 +1,21 @@
+prodId,productN,Proj_Id,PpId
+PI001,Car Alarm,p000,part0
+PI002,Security System,p000,part0
+PI003,Car Starter,p001,part1
+PI004,User Interface,p002,part2
+PI005,Personal Shopper,p005,part5
+PI006,Digital Camera,p008,part8
+PI007,Custom Website,p006,part6
+PI008,Phone XIV,p008,part8
+PI009,Chess Super Computer,p009,part9
+PI010,Shopping Suggestion AI,p009,part9
+PI011,Search Engine,p006,part6
+PI012,Dynamic Modeling,p003,part3
+PI013,Toaster,p004,part4
+PI014,Generators,p004,part4
+PI015,High Voltage AC,p004,part4
+PI016,Chatbot,p009,part9
+PI017,Bluetooth,p000,part0
+PI018,Computer Chip,p008,part8
+PI019,Video Game Console,p008,part8
+PI020,User Controls,p002,part2

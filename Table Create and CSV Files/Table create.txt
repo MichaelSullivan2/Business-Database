@@ -1,0 +1,121 @@
+
+CREATE SCHEMA tmp;
+SET search_path=tmp;
+
+CREATE DOMAIN gender CHAR(1)
+    CHECK (value IN ( 'F' , 'M' ) )
+    ;
+
+
+CREATE TABLE employees (
+    emp_no INT NOT NULL,
+    birth_date DATE NOT NULL,
+    first_name VARCHAR(14) NOT NULL,
+    last_name VARCHAR(16) NOT NULL,
+    gender tmp.gender NOT NULL,
+    hire_date DATE NOT NULL,
+    PRIMARY KEY (emp_no)
+);
+
+CREATE TABLE departments (
+    dept_no CHAR(4) NOT NULL,
+    dept_name VARCHAR(40) NOT NULL,
+	dept_location VARCHAR(30) NOT NULL,
+    PRIMARY KEY (dept_no),
+    UNIQUE (dept_name)
+);
+
+CREATE TABLE dept_manager (
+    emp_no INT NOT NULL,
+    dept_no CHAR(4) NOT NULL,
+    from_date DATE NOT NULL,
+    to_date DATE NOT NULL,
+    proj_id INT NOT NULL,
+    FOREIGN KEY (emp_no)
+        REFERENCES employees (emp_no)
+        ON DELETE CASCADE,
+    FOREIGN KEY (dept_no)
+        REFERENCES departments (dept_no)
+        ON DELETE CASCADE,
+    PRIMARY KEY (emp_no , dept_no)
+); 
+
+CREATE TABLE dept_emp (
+    emp_no INT NOT NULL,
+    dept_no CHAR(4) NOT NULL,
+    from_date DATE NOT NULL,
+    to_date DATE NOT NULL,
+    FOREIGN KEY (emp_no)
+        REFERENCES employees (emp_no)
+        ON DELETE CASCADE,
+    FOREIGN KEY (dept_no)
+        REFERENCES departments (dept_no)
+        ON DELETE CASCADE,
+    PRIMARY KEY (emp_no , dept_no)
+);
+
+CREATE TABLE titles (
+    emp_no INT NOT NULL,
+    title VARCHAR(50) NOT NULL,
+    from_date DATE NOT NULL,
+    to_date DATE,
+    FOREIGN KEY (emp_no)
+        REFERENCES employees (emp_no)
+        ON DELETE CASCADE,
+    PRIMARY KEY (emp_no , title , from_date)
+)
+; 
+
+CREATE TABLE salaries (
+    emp_no INT NOT NULL,
+    salary INT NOT NULL,
+    from_date DATE NOT NULL,
+    to_date DATE NOT NULL,
+    FOREIGN KEY (emp_no)
+        REFERENCES employees (emp_no)
+        ON DELETE CASCADE,
+    PRIMARY KEY (emp_no , from_date)
+)
+; 
+
+CREATE TABLE Project (
+    proj_id CHAR(4) NOT NULL,
+    proj_name VARCHAR(50) NOT NULL,
+    dept_no CHAR(4) NOT NULL,
+    FOREIGN KEY (dept_no)
+        REFERENCES departments (dept_no)
+        ON DELETE CASCADE,
+    PRIMARY KEY (proj_id)
+);
+
+CREATE TABLE Project_Part (
+    Ppid CHAR(4) NOT NULL,
+    labor_hours INT,
+    total_cost INT NOT NULL,
+    proj_id CHAR(4) NOT NULL,
+    FOREIGN KEY (proj_id)
+        REFERENCES Project (proj_id)
+        ON DELETE CASCADE,
+    PRIMARY KEY (Ppid)
+);
+
+CREATE TABLE Product (
+    prodId CHAR(4) NOT NULL,
+    product_Price INT NOT NULL,
+    proj_id CHAR(4) NOT NULL,
+    Ppid CHAR(4) NOT NULL,
+    FOREIGN KEY (proj_id)
+        REFERENCES Project (proj_id)
+        ON DELETE CASCADE,
+    FOREIGN KEY (Ppid)
+        REFERENCES Project_Part (Ppid)
+        ON DELETE CASCADE,
+    PRIMARY KEY (prodId)
+);
+
+Create table Retailer (
+Cust_Id char(4) NOT NULL,
+prodID char(4) NOT NULL,
+cust_name varchar(50) NOT NULL,
+FOREIGN KEY (prodId) references Product (prodId) on delete cascade,
+Primary Key (Cust_Id) );

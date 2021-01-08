@@ -1,0 +1,8 @@
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d001','Marketing','898 Forest Circle');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d002','Finance','98 Springs Road');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d003','Human Resources','85 Kings Street');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d004','Production','6 Vermont Center');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d005','Development','70 Novick Plaza');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d006','Sales','00630 Dennis Road');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d007','Research','95824 Old Shore Terrace');
+INSERT INTO departments(dept_no,dept_name,dept_location) VALUES ('d008','Customer Service','7769 Delaware Point');

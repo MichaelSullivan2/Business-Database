@@ -1,0 +1,493 @@
+emp_no,title,from_date,to_date
+17976,Entry Level Marketing,10/30/2011,12/6/2014
+17976,Marketing Strategist,12/6/2014,1/1/9999
+14999,Entry Level Marketing,10/2/2012,9/19/2014
+14999,Marketing Strategist,9/19/2014,1/1/9999
+15371,Entry Level Marketing,6/11/2013,11/16/2014
+15371,Marketing Strategist,11/16/2014,1/1/9999
+17061,Entry Level Marketing,6/8/2010,10/21/2014
+17061,Marketing Strategist,10/21/2014,1/1/9999
+18556,Entry Level Marketing,11/22/2012,3/24/2015
+18556,Marketing Strategist,3/24/2015,1/1/9999
+15619,Entry Level Marketing,2/24/2013,6/23/2015
+15619,Marketing Strategist,6/23/2015,1/1/9999
+17193,Entry Level Marketing,8/25/2010,12/27/2014
+17193,Marketing Strategist,12/27/2014,1/1/9999
+15064,Entry Level Marketing,9/6/2013,7/17/2014
+15064,Marketing Strategist,7/17/2014,1/1/9999
+14159,Entry Level Marketing,10/13/2011,6/1/2015
+14159,Marketing Strategist,6/1/2015,1/1/9999
+14635,Entry Level Marketing,2/8/2010,3/2/2015
+14635,Marketing Strategist,3/2/2015,1/1/9999
+15710,Entry Level Marketing,7/20/2011,10/29/2014
+15710,Marketing Strategist,10/29/2014,1/1/9999
+16637,Entry Level Marketing,2/7/2012,7/17/2014
+16637,Marketing Strategist,7/17/2014,1/1/9999
+19409,Entry Level Marketing,3/24/2012,10/9/2014
+19409,Marketing Strategist,10/9/2014,1/1/9999
+14198,Entry Level Marketing,7/12/2012,9/22/2014
+14198,Marketing Strategist,9/22/2014,1/1/9999
+11756,Entry Level Marketing,6/8/2013,6/12/2014
+11756,Marketing Strategist,6/12/2014,1/1/9999
+17541,Entry Level Marketing,6/1/2012,3/12/2015
+17541,Marketing Strategist,3/12/2015,1/1/9999
+16056,Entry Level Marketing,11/24/2009,5/13/2015
+16056,Marketing Strategist,5/13/2015,1/1/9999
+15499,Entry Level Marketing,9/3/2013,11/23/2014
+15499,Marketing Strategist,11/23/2014,1/1/9999
+19183,Entry Level Marketing,1/10/2010,8/2/2014
+19183,Marketing Strategist,8/2/2014,1/1/9999
+16370,Entry Level Marketing,2/1/2014,7/15/2014
+16370,Marketing Strategist,7/15/2014,1/1/9999
+12759,Entry Level Marketing,11/19/2013,7/18/2014
+12759,Marketing Strategist,7/18/2014,1/1/9999
+19124,Entry Level Marketing,9/16/2013,8/21/2014
+19124,Marketing Strategist,8/21/2014,1/1/9999
+18481,Entry Level Marketing,2/2/2011,1/15/2015
+18481,Marketing Strategist,1/15/2015,1/1/9999
+11737,Entry Level Marketing,9/16/2012,8/30/2014
+11737,Marketing Strategist,8/30/2014,1/1/9999
+18075,Entry Level Marketing,11/24/2012,5/19/2015
+18075,Marketing Strategist,5/19/2015,1/1/9999
+10016,Entry Level Marketing,3/21/2010,10/17/2014
+10016,Marketing Strategist,10/17/2014,1/1/9999
+19428,Entry Level Marketing,5/11/2013,3/20/2015
+19428,Marketing Strategist,3/20/2015,1/1/9999
+12953,Entry Level Marketing,9/19/2013,10/10/2014
+12953,Marketing Strategist,10/10/2014,1/1/9999
+12595,Entry Level Marketing,8/25/2011,10/24/2014
+12595,Marketing Strategist,10/24/2014,1/1/9999
+17380,Entry Level Marketing,4/2/2010,8/24/2014
+17380,Marketing Strategist,8/24/2014,1/1/9999
+13075,Entry Level Marketing,1/19/2012,2/4/2015
+13075,Marketing Strategist,2/4/2015,1/1/9999
+12996,Entry Level Marketing,7/9/2013,4/7/2015
+12996,Marketing Strategist,4/7/2015,1/1/9999
+18252,Entry Level Marketing,9/3/2009,12/12/2014
+18252,Marketing Strategist,12/12/2014,1/1/9999
+17820,Financial Analyst,5/14/2010,2/9/2015
+17820,Finnancial Accountant,2/9/2015,1/1/9999
+19271,Financial Analyst,9/17/2009,3/9/2015
+19271,Finnancial Accountant,3/9/2015,1/1/9999
+10488,Financial Analyst,7/20/2010,6/24/2014
+10488,Finnancial Accountant,6/24/2014,1/1/9999
+13216,Financial Analyst,3/22/2012,2/16/2015
+13216,Finnancial Accountant,2/16/2015,1/1/9999
+13340,Financial Analyst,11/8/2013,5/29/2015
+13340,Finnancial Accountant,5/29/2015,1/1/9999
+18961,Financial Analyst,9/21/2010,9/17/2014
+18961,Finnancial Accountant,9/17/2014,1/1/9999
+15356,Financial Analyst,6/25/2012,11/27/2014
+15356,Finnancial Accountant,11/27/2014,1/1/9999
+11550,Financial Analyst,5/24/2009,12/21/2014
+11550,Finnancial Accountant,12/21/2014,1/1/9999
+11589,Financial Analyst,8/24/2009,5/26/2015
+11589,Finnancial Accountant,5/26/2015,1/1/9999
+13977,Financial Analyst,7/6/2011,8/7/2014
+13977,Finnancial Accountant,8/7/2014,1/1/9999
+10359,Financial Analyst,12/19/2009,1/20/2015
+10359,Finnancial Accountant,1/20/2015,1/1/9999
+11872,Financial Analyst,8/5/2009,7/6/2015
+11872,Finnancial Accountant,7/6/2015,1/1/9999
+14851,Financial Analyst,4/21/2010,8/22/2014
+14851,Finnancial Accountant,8/22/2014,1/1/9999
+15539,Financial Analyst,8/10/2009,7/27/2014
+15539,Finnancial Accountant,7/27/2014,1/1/9999
+16000,Financial Analyst,2/9/2013,9/2/2014
+16000,Finnancial Accountant,9/2/2014,1/1/9999
+19667,Financial Analyst,6/10/2011,1/3/2015
+19667,Finnancial Accountant,1/3/2015,1/1/9999
+10908,Financial Analyst,5/25/2013,3/25/2015
+10908,Finnancial Accountant,3/25/2015,1/1/9999
+14168,Financial Analyst,2/27/2010,7/6/2015
+14168,Finnancial Accountant,7/6/2015,1/1/9999
+10775,Financial Analyst,10/29/2010,10/18/2014
+10775,Finnancial Accountant,10/18/2014,1/1/9999
+17431,Financial Analyst,6/19/2012,2/13/2015
+17431,Finnancial Accountant,2/13/2015,1/1/9999
+19433,Financial Analyst,4/11/2012,11/1/2014
+19433,Finnancial Accountant,11/1/2014,1/1/9999
+14206,Financial Analyst,11/18/2012,12/15/2014
+14206,Finnancial Accountant,12/15/2014,1/1/9999
+18332,Financial Analyst,11/12/2010,6/20/2015
+18332,Finnancial Accountant,6/20/2015,1/1/9999
+15958,Financial Analyst,10/2/2009,6/16/2014
+15958,Finnancial Accountant,6/16/2014,1/1/9999
+14311,Financial Analyst,4/7/2011,9/13/2014
+14311,Finnancial Accountant,9/13/2014,1/1/9999
+13104,Financial Analyst,11/7/2010,2/12/2015
+13104,Finnancial Accountant,2/12/2015,1/1/9999
+16996,Financial Analyst,2/26/2013,10/12/2014
+16996,Finnancial Accountant,10/12/2014,1/1/9999
+11438,Financial Analyst,8/21/2012,4/2/2015
+11438,Finnancial Accountant,4/2/2015,1/1/9999
+13595,Financial Analyst,3/28/2013,8/9/2014
+13595,Finnancial Accountant,8/9/2014,1/1/9999
+17883,Financial Analyst,12/11/2010,6/26/2015
+17883,Finnancial Accountant,6/26/2015,1/1/9999
+16953,Financial Analyst,4/13/2010,8/10/2014
+16953,Finnancial Accountant,8/10/2014,1/1/9999
+12468,Financial Analyst,12/27/2009,8/28/2014
+12468,Finnancial Accountant,8/28/2014,1/1/9999
+12740,Financial Analyst,10/15/2009,2/18/2015
+12740,Finnancial Accountant,2/18/2015,1/1/9999
+19545,Financial Analyst,5/7/2009,12/7/2014
+19545,Finnancial Accountant,12/7/2014,1/1/9999
+16922,Financial Analyst,8/23/2011,6/28/2014
+16922,Finnancial Accountant,6/28/2014,1/1/9999
+15678,Entry Level Recruiter,3/22/2011,9/30/2014
+15678,Human Resource Associate,9/30/2014,1/1/9999
+18327,Entry Level Recruiter,6/20/2012,6/9/2014
+18327,Human Resource Associate,6/9/2014,1/1/9999
+17004,Entry Level Recruiter,8/27/2010,6/16/2014
+17004,Human Resource Associate,6/16/2014,1/1/9999
+12287,Entry Level Recruiter,4/9/2013,3/13/2015
+12287,Human Resource Associate,3/13/2015,1/1/9999
+11984,Entry Level Recruiter,2/14/2013,12/3/2014
+11984,Human Resource Associate,12/3/2014,1/1/9999
+11592,Entry Level Recruiter,11/22/2012,10/29/2014
+11592,Human Resource Associate,10/29/2014,1/1/9999
+16727,Entry Level Recruiter,10/17/2013,6/22/2014
+16727,Human Resource Associate,6/22/2014,1/1/9999
+13976,Entry Level Recruiter,8/15/2009,7/19/2014
+13976,Human Resource Associate,7/19/2014,1/1/9999
+11877,Entry Level Recruiter,10/20/2010,10/4/2014
+11877,Human Resource Associate,10/4/2014,1/1/9999
+12560,Entry Level Recruiter,12/6/2012,2/27/2015
+12560,Human Resource Associate,2/27/2015,1/1/9999
+13366,Entry Level Recruiter,9/28/2010,1/10/2015
+13366,Human Resource Associate,1/10/2015,1/1/9999
+15722,Entry Level Recruiter,2/4/2014,8/14/2014
+15722,Human Resource Associate,8/14/2014,1/1/9999
+13271,Entry Level Recruiter,11/30/2010,4/20/2015
+13271,Human Resource Associate,4/20/2015,1/1/9999
+15942,Entry Level Recruiter,1/25/2013,4/6/2015
+15942,Human Resource Associate,4/6/2015,1/1/9999
+18558,Entry Level Recruiter,11/3/2012,10/22/2014
+18558,Human Resource Associate,10/22/2014,1/1/9999
+18415,Entry Level Recruiter,11/22/2011,6/18/2015
+18415,Human Resource Associate,6/18/2015,1/1/9999
+16150,Entry Level Recruiter,12/18/2013,12/28/2014
+16150,Human Resource Associate,12/28/2014,1/1/9999
+19983,Entry Level Recruiter,12/22/2013,5/14/2015
+19983,Human Resource Associate,5/14/2015,1/1/9999
+14516,Entry Level Recruiter,2/14/2012,12/28/2014
+14516,Human Resource Associate,12/28/2014,1/1/9999
+10960,Entry Level Recruiter,10/24/2011,9/13/2014
+10960,Human Resource Associate,9/13/2014,1/1/9999
+13690,Entry Level Recruiter,4/26/2014,3/14/2015
+13690,Human Resource Associate,3/14/2015,1/1/9999
+12414,Entry Level Recruiter,9/14/2010,6/6/2015
+12414,Human Resource Associate,6/6/2015,1/1/9999
+13950,Entry Level Recruiter,2/12/2011,10/13/2014
+13950,Human Resource Associate,10/13/2014,1/1/9999
+14436,Entry Level Recruiter,4/10/2013,12/25/2014
+14436,Human Resource Associate,12/25/2014,1/1/9999
+14912,Entry Level Recruiter,8/5/2010,9/28/2014
+14912,Human Resource Associate,9/28/2014,1/1/9999
+12828,Entry Level Recruiter,6/13/2011,8/17/2014
+12828,Human Resource Associate,8/17/2014,1/1/9999
+10879,Entry Level Recruiter,4/18/2010,8/19/2014
+10879,Human Resource Associate,8/19/2014,1/1/9999
+11802,Entry Level Recruiter,12/2/2011,9/10/2014
+11802,Human Resource Associate,9/10/2014,1/1/9999
+13182,Entry Level Recruiter,7/4/2011,12/4/2014
+13182,Human Resource Associate,12/4/2014,1/1/9999
+17037,Entry Level Recruiter,10/15/2010,2/9/2015
+17037,Human Resource Associate,2/9/2015,1/1/9999
+11185,Entry Level Recruiter,11/1/2011,8/17/2014
+11185,Human Resource Associate,8/17/2014,1/1/9999
+11229,Entry Level Recruiter,12/19/2012,11/6/2014
+11229,Human Resource Associate,11/6/2014,1/1/9999
+13462,Entry Level Recruiter,2/21/2011,12/28/2014
+13462,Human Resource Associate,12/28/2014,1/1/9999
+19140,Entry Level Recruiter,8/11/2012,6/20/2015
+19140,Human Resource Associate,6/20/2015,1/1/9999
+16235,Production Worker,6/3/2012,2/10/2015
+16235,Entry Level Assembly,2/10/2015,1/1/9999
+10912,Production Worker,5/23/2009,9/22/2014
+10912,Entry Level Assembly,9/22/2014,1/1/9999
+19646,Production Worker,12/30/2011,1/15/2015
+19646,Entry Level Assembly,1/15/2015,1/1/9999
+19107,Production Worker,11/26/2013,12/15/2014
+19107,Entry Level Assembly,12/15/2014,1/1/9999
+10492,Production Worker,7/30/2009,5/29/2015
+10492,Entry Level Assembly,5/29/2015,1/1/9999
+19811,Production Worker,1/28/2011,4/24/2015
+19811,Entry Level Assembly,4/24/2015,1/1/9999
+13897,Production Worker,8/27/2012,7/2/2014
+13897,Entry Level Assembly,7/2/2014,1/1/9999
+11492,Production Worker,7/5/2012,6/22/2015
+11492,Entry Level Assembly,6/22/2015,1/1/9999
+12821,Production Worker,1/15/2012,12/28/2014
+12821,Entry Level Assembly,12/28/2014,1/1/9999
+19122,Production Worker,12/2/2009,9/20/2014
+19122,Entry Level Assembly,9/20/2014,1/1/9999
+12765,Production Worker,10/12/2013,5/13/2015
+12765,Entry Level Assembly,5/13/2015,1/1/9999
+17481,Production Worker,8/29/2010,9/18/2014
+17481,Entry Level Assembly,9/18/2014,1/1/9999
+16103,Production Worker,11/14/2013,1/23/2015
+16103,Entry Level Assembly,1/23/2015,1/1/9999
+13460,Production Worker,3/9/2011,10/22/2014
+13460,Entry Level Assembly,10/22/2014,1/1/9999
+16412,Production Worker,9/5/2009,3/24/2015
+16412,Entry Level Assembly,3/24/2015,1/1/9999
+14952,Production Worker,3/22/2012,6/8/2015
+14952,Entry Level Assembly,6/8/2015,1/1/9999
+10128,Production Worker,3/9/2013,4/2/2015
+10128,Entry Level Assembly,4/2/2015,1/1/9999
+15103,Production Worker,1/25/2014,9/11/2014
+15103,Entry Level Assembly,9/11/2014,1/1/9999
+17823,Production Worker,8/11/2009,3/31/2015
+17823,Entry Level Assembly,3/31/2015,1/1/9999
+14950,Production Worker,5/22/2010,9/18/2014
+14950,Entry Level Assembly,9/18/2014,1/1/9999
+17351,Production Worker,12/16/2012,10/22/2014
+17351,Entry Level Assembly,10/22/2014,1/1/9999
+16711,Production Worker,3/29/2012,12/27/2014
+16711,Entry Level Assembly,12/27/2014,1/1/9999
+15060,Production Worker,12/25/2009,9/12/2014
+15060,Entry Level Assembly,9/12/2014,1/1/9999
+15488,Production Worker,11/1/2011,10/31/2014
+15488,Entry Level Assembly,10/31/2014,1/1/9999
+14397,Production Worker,11/6/2012,1/30/2015
+14397,Entry Level Assembly,1/30/2015,1/1/9999
+12008,Production Worker,1/2/2012,10/2/2014
+12008,Entry Level Assembly,10/2/2014,1/1/9999
+13784,Production Worker,10/22/2010,5/22/2015
+13784,Entry Level Assembly,5/22/2015,1/1/9999
+13714,Web Developer,5/7/2013,6/18/2015
+13714,Junior Web Dev,6/18/2015,1/1/9999
+17952,Production Worker,9/21/2009,3/22/2015
+17952,Entry Level Assembly,3/22/2015,1/1/9999
+15413,Production Worker,2/28/2011,6/23/2014
+15413,Entry Level Assembly,6/23/2014,1/1/9999
+14103,Production Worker,12/28/2012,11/6/2014
+14103,Entry Level Assembly,11/6/2014,1/1/9999
+10526,Production Worker,1/9/2010,3/7/2015
+10526,Entry Level Assembly,3/7/2015,1/1/9999
+15052,Production Worker,5/21/2009,3/12/2015
+15052,Entry Level Assembly,3/12/2015,1/1/9999
+14526,Web Developer,2/1/2012,4/21/2015
+14526,Junior Web Dev,4/21/2015,1/1/9999
+10789,Web Developer,6/26/2012,10/19/2014
+10789,Junior Web Dev,10/19/2014,1/1/9999
+17681,Web Developer,10/16/2010,8/27/2014
+17681,Junior Web Dev,8/27/2014,1/1/9999
+10673,Web Developer,4/7/2013,8/6/2014
+10673,Junior Web Dev,8/6/2014,1/1/9999
+15411,Web Developer,11/11/2009,7/25/2014
+15411,Junior Web Dev,7/25/2014,1/1/9999
+11245,Web Developer,6/14/2013,5/30/2015
+11245,Junior Web Dev,5/30/2015,1/1/9999
+13463,Web Developer,7/20/2009,6/24/2014
+13463,Junior Web Dev,6/24/2014,1/1/9999
+10637,Web Developer,1/25/2013,11/6/2014
+10637,Junior Web Dev,11/6/2014,1/1/9999
+11393,Web Developer,7/31/2010,1/15/2015
+11393,Junior Web Dev,1/15/2015,1/1/9999
+10794,Web Developer,2/10/2011,1/5/2015
+10794,Junior Web Dev,1/5/2015,1/1/9999
+15911,Web Developer,4/25/2013,8/22/2014
+15911,Junior Web Dev,8/22/2014,1/1/9999
+11939,Web Developer,5/18/2012,8/16/2014
+11939,Junior Web Dev,8/16/2014,1/1/9999
+15324,Web Developer,9/13/2011,7/12/2014
+15324,Junior Web Dev,7/12/2014,1/1/9999
+14241,Web Developer,9/5/2009,12/15/2014
+14241,Junior Web Dev,12/15/2014,1/1/9999
+10102,Web Developer,4/23/2010,1/1/2015
+10102,Junior Web Dev,1/1/2015,1/1/9999
+19154,Web Developer,3/9/2014,4/19/2015
+19154,Junior Web Dev,4/19/2015,1/1/9999
+14511,Web Developer,9/20/2012,2/18/2015
+14511,Junior Web Dev,2/18/2015,1/1/9999
+12366,Web Developer,1/14/2014,5/21/2015
+12366,Junior Web Dev,5/21/2015,1/1/9999
+16483,Web Developer,12/23/2011,4/29/2015
+16483,Junior Web Dev,4/29/2015,1/1/9999
+19317,Web Developer,8/12/2010,11/7/2014
+19317,Junior Web Dev,11/7/2014,1/1/9999
+19851,Web Developer,4/24/2011,9/4/2014
+19851,Junior Web Dev,9/4/2014,1/1/9999
+15540,Web Developer,2/3/2012,12/2/2014
+15540,Junior Web Dev,12/2/2014,1/1/9999
+15025,Web Developer,6/7/2010,6/26/2014
+15025,Junior Web Dev,6/26/2014,1/1/9999
+18299,Web Developer,8/10/2013,3/2/2015
+18299,Junior Web Dev,3/2/2015,1/1/9999
+12412,Web Developer,2/16/2010,5/14/2015
+12412,Junior Web Dev,5/14/2015,1/1/9999
+17777,Web Developer,5/29/2009,3/13/2015
+17777,Junior Web Dev,3/13/2015,1/1/9999
+19007,Web Developer,4/8/2011,11/14/2014
+19007,Junior Web Dev,11/14/2014,1/1/9999
+11673,Web Developer,3/14/2012,3/7/2015
+11673,Junior Web Dev,3/7/2015,1/1/9999
+17801,Web Developer,5/12/2009,8/2/2014
+17801,Junior Web Dev,8/2/2014,1/1/9999
+19793,Web Developer,2/24/2011,3/1/2015
+19793,Junior Web Dev,3/1/2015,1/1/9999
+19529,Web Developer,4/2/2012,12/13/2014
+19529,Junior Web Dev,12/13/2014,1/1/9999
+11800,Web Developer,1/18/2010,2/9/2015
+11800,Junior Web Dev,2/9/2015,1/1/9999
+18293,Web Developer,6/5/2011,6/23/2014
+18293,Junior Web Dev,6/23/2014,1/1/9999
+19585,Web Developer,7/1/2012,1/19/2015
+19585,Junior Web Dev,1/19/2015,1/1/9999
+17007,Web Developer,9/23/2013,8/11/2014
+17007,Junior Web Dev,8/11/2014,1/1/9999
+10603,Entry Level Sales,12/27/2010,10/5/2014
+10603,Retail Associate,10/5/2014,1/1/9999
+13278,Entry Level Sales,11/18/2010,3/3/2015
+13278,Retail Associate,3/3/2015,1/1/9999
+19982,Entry Level Sales,7/26/2012,9/12/2014
+19982,Retail Associate,9/12/2014,1/1/9999
+11039,Entry Level Sales,12/13/2011,10/19/2014
+11039,Retail Associate,10/19/2014,1/1/9999
+15343,Entry Level Sales,7/28/2009,7/5/2014
+15343,Retail Associate,7/5/2014,1/1/9999
+12219,Entry Level Sales,7/29/2013,9/21/2014
+12219,Retail Associate,9/21/2014,1/1/9999
+17866,Entry Level Sales,9/22/2012,11/16/2014
+17866,Retail Associate,11/16/2014,1/1/9999
+15533,Entry Level Sales,5/28/2011,4/25/2015
+15533,Retail Associate,4/25/2015,1/1/9999
+19539,Entry Level Sales,5/29/2012,8/22/2014
+19539,Retail Associate,8/22/2014,1/1/9999
+15881,Entry Level Sales,5/16/2013,5/17/2015
+15881,Retail Associate,5/17/2015,1/1/9999
+10712,Entry Level Sales,11/29/2013,4/8/2015
+10712,Retail Associate,4/8/2015,1/1/9999
+17536,Entry Level Sales,9/5/2010,4/14/2015
+17536,Retail Associate,4/14/2015,1/1/9999
+15393,Entry Level Sales,10/24/2009,2/18/2015
+15393,Retail Associate,2/18/2015,1/1/9999
+16292,Entry Level Sales,11/30/2011,5/24/2015
+16292,Retail Associate,5/24/2015,1/1/9999
+17371,Entry Level Sales,10/4/2010,3/31/2015
+17371,Retail Associate,3/31/2015,1/1/9999
+12498,Entry Level Sales,1/18/2012,11/8/2014
+12498,Retail Associate,11/8/2014,1/1/9999
+16657,Research Technician,8/18/2011,9/20/2014
+16657,Research Associate,9/20/2014,1/1/9999
+18052,Research Technician,9/30/2013,5/26/2015
+18052,Research Associate,5/26/2015,1/1/9999
+13733,Research Technician,11/23/2010,9/27/2014
+13733,Research Associate,9/27/2014,1/1/9999
+13136,Research Technician,3/3/2014,9/10/2014
+13136,Research Associate,9/10/2014,1/1/9999
+18185,Research Technician,8/11/2012,2/16/2015
+18185,Research Associate,2/16/2015,1/1/9999
+19738,Research Technician,8/7/2013,3/10/2015
+19738,Research Associate,3/10/2015,1/1/9999
+12744,Research Technician,6/18/2011,11/8/2014
+12744,Research Associate,11/8/2014,1/1/9999
+19376,Research Technician,9/10/2011,6/5/2015
+19376,Research Associate,6/5/2015,1/1/9999
+16124,Research Technician,10/17/2012,6/6/2015
+16124,Research Associate,6/6/2015,1/1/9999
+18626,Research Technician,12/9/2011,6/23/2015
+18626,Research Associate,6/23/2015,1/1/9999
+17527,Research Technician,8/23/2011,2/7/2015
+17527,Research Associate,2/7/2015,1/1/9999
+11998,Research Technician,5/12/2009,2/1/2015
+11998,Research Associate,2/1/2015,1/1/9999
+10556,Research Technician,3/28/2011,2/11/2015
+10556,Research Associate,2/11/2015,1/1/9999
+18923,Research Technician,9/4/2013,8/26/2014
+18923,Research Associate,8/26/2014,1/1/9999
+12397,Research Technician,7/5/2013,4/19/2015
+12397,Research Associate,4/19/2015,1/1/9999
+10533,Research Technician,5/21/2010,10/13/2014
+10533,Research Associate,10/13/2014,1/1/9999
+19579,Research Technician,12/20/2012,3/12/2015
+19579,Research Associate,3/12/2015,1/1/9999
+14441,Research Technician,3/16/2013,11/16/2014
+14441,Research Associate,11/16/2014,1/1/9999
+14512,Research Technician,11/27/2010,8/13/2014
+14512,Research Associate,8/13/2014,1/1/9999
+15026,Research Technician,7/13/2012,11/2/2014
+15026,Research Associate,11/2/2014,1/1/9999
+12990,Research Technician,6/12/2010,1/29/2015
+12990,Research Associate,1/29/2015,1/1/9999
+14987,Research Technician,12/2/2012,5/5/2015
+14987,Research Associate,5/5/2015,1/1/9999
+12836,Research Technician,10/17/2009,9/10/2014
+12836,Research Associate,9/10/2014,1/1/9999
+13885,Research Technician,11/15/2011,1/14/2015
+13885,Research Associate,1/14/2015,1/1/9999
+13505,Entry Level Marketing,11/9/2012,4/26/2015
+13505,Entry Level Sales,4/26/2015,1/1/9999
+13954,Entry Level Marketing,1/17/2012,12/27/2014
+13954,Entry Level Sales,12/27/2014,1/1/9999
+10483,Financial Analyst,8/3/2013,1/29/2015
+10483,Entry Level Sales,1/29/2015,1/1/9999
+16160,Entry Level Marketing,4/1/2010,3/6/2015
+16160,Entry Level Sales,3/6/2015,1/1/9999
+17485,Production Worker,5/16/2012,1/5/2015
+17485,Entry Level Assembly,1/5/2015,1/1/9999
+11465,Production Worker,9/16/2012,6/26/2015
+11465,Entry Level Assembly,6/26/2015,1/1/9999
+15311,Research Technician,5/17/2013,5/21/2015
+15311,Research Associate,5/21/2015,1/1/9999
+17831,Research Technician,9/18/2011,1/25/2015
+17831,Research Associate,1/25/2015,1/1/9999
+12992,Customer Service Call Center,7/5/2012,11/5/2014
+12992,Entry Level Marketing,11/5/2014,1/1/9999
+19981,Research Technician,8/28/2013,10/7/2014
+19981,Research Associate,10/7/2014,1/1/9999
+15770,Customer Service Call Center,6/11/2011,4/3/2015
+15770,Production Worker,4/3/2015,1/1/9999
+14988,Research Technician,9/30/2009,6/27/2015
+14988,Entry Level Marketing,6/27/2015,1/1/9999
+18955,Customer Service Call Center,5/4/2011,9/5/2014
+18955,Entry Level Recruiter,9/5/2014,1/1/9999
+11543,Customer Service Call Center,12/14/2009,1/16/2015
+11543,Production Worker,1/16/2015,1/1/9999
+12186,Customer Service Call Center,3/28/2010,11/17/2014
+12186,Production Worker,11/17/2014,1/1/9999
+12903,Customer Service Call Center,9/1/2012,5/21/2015
+12903,Entry Level Marketing,5/21/2015,1/1/9999
+10166,Customer Service Call Center,3/21/2013,8/4/2014
+10166,Production Worker,8/4/2014,1/1/9999
+10411,Customer Service Call Center,1/15/2012,6/18/2014
+10411,Entry Level Marketing,6/18/2014,1/1/9999
+19778,Customer Service Call Center,7/17/2013,12/17/2014
+19778,Production Worker,12/17/2014,1/1/9999
+14543,Production Worker,11/29/2013,7/2/2014
+14543,Customer Service Call Center,7/2/2014,1/1/9999
+12784,Customer Service Call Center,10/21/2013,5/11/2015
+12784,Financial Analyst,5/11/2015,1/1/9999
+16193,Customer Service Call Center,3/12/2010,11/23/2014
+16193,Production Worker,11/23/2014,1/1/9999
+13214,Customer Service Call Center,1/20/2014,3/26/2015
+13214,Entry Level Marketing,3/26/2015,1/1/9999
+18158,Customer Service Call Center,3/23/2011,4/18/2015
+18158,Production Worker,4/18/2015,1/1/9999
+16791,Research Technician,10/29/2009,4/16/2015
+16791,Customer Service Call Center,4/16/2015,1/1/9999
+14798,Entry Level Marketing,8/17/2013,6/26/2015
+14798,Research Associate,6/26/2015,1/1/9999
+18590,Production Worker,11/26/2009,10/1/2014
+18590,Customer Service Call Center,10/1/2014,1/1/9999
+19119,Customer Service Call Center,10/13/2010,6/11/2015
+19119,Financial Analyst,6/11/2015,1/1/9999
+17534,Customer Service Call Center,2/4/2010,4/8/2015
+17534,Customer Service Associate,4/8/2015,1/1/9999
+18818,Customer Service Call Center,9/6/2011,8/17/2014
+18818,Financial Analyst,8/17/2014,1/1/9999
+18745,Customer Service Call Center,6/23/2011,11/8/2014
+18745,Customer Service Associate,11/8/2014,1/1/9999
+12452,Customer Service Call Center,10/25/2009,7/12/2014
+12452,Production Worker,7/12/2014,1/1/9999
+17309,Customer Service Call Center,12/26/2011,4/25/2015
+17309,Customer Service Associate,4/25/2015,1/1/9999
+12561,Customer Service Call Center,5/19/2013,12/23/2014
+12561,Production Worker,12/23/2014,1/1/9999
+18715,Customer Service Call Center,1/18/2010,6/9/2015
+18715,Customer Service Associate,6/9/2015,1/1/9999
+14227,Customer Service Call Center,5/11/2011,4/4/2015
+14227,Customer Service Associate,4/4/2015,1/1/9999

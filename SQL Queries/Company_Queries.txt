@@ -1,0 +1,131 @@
+SELECT 
+    pp.ppid,
+	r.cust_name,
+	sum(pp.labor_hours) As "Labor Hours",
+	sum(pp.total_cost) As "Total Cost",
+	case
+	when 
+	pp.ppid = 'part0' then 1
+	else 0
+	end as "Part 0",
+	case
+	when 
+	pp.ppid = 'part1' then 1
+	else 0
+	end as "Part 1",
+	case
+	when 
+	pp.ppid = 'part2' then 1
+	else 0
+	end as "Part 2",
+	case
+	when 
+	pp.ppid = 'part3' then 1
+	else 0
+	end as "Part 3",
+	case
+	when 
+	pp.ppid = 'part4' then 1
+	else 0
+	end as "Part 4",
+	case
+	when 
+	pp.ppid = 'part5' then 1
+	else 0
+	end as "Part 5",
+	case
+	when 
+	pp.ppid = 'part6' then 1
+	else 0
+	end as "Part 6",
+	case
+	when 
+	pp.ppid = 'part7' then 1
+	else 0
+	end as "Part 7",
+	case
+	when 
+	pp.ppid = 'part8' then 1
+	else 0
+	end as "Part 8",
+	case
+	when 
+	pp.ppid = 'part9' then 1
+	else 0
+	end as "Part 9"
+FROM
+	project_part pp
+	join
+	product p on pp.ppid = p.ppid
+	join
+	retailer r on p.prodid = r.prodid
+	group by
+	pp.ppid, r.cust_name
+	order by
+	pp.ppid;
+
+SELECT 
+    pp.ppid,
+	r.cust_name,
+	sum(pp.labor_hours) As "Labor Hours",
+	sum(pp.total_cost) As "Total Cost"
+FROM
+	project_part pp
+	join
+	product p on pp.ppid = p.ppid
+	join
+	retailer r on p.prodid = r.prodid
+	group by
+	pp.ppid, r.cust_name
+	order by
+	pp.ppid;
+
+SELECT 
+    pp.ppid,
+	sum(pp.labor_hours) As "Labor Hours",
+	sum(pp.total_cost) As "Total Cost"
+FROM
+	project_part pp
+	join
+	product p on pp.ppid = p.ppid
+	join
+	retailer r on p.prodid = r.prodid
+	group by
+	pp.ppid
+	order by
+	pp.ppid;
+
+SELECT 
+    pp.ppid,
+	sum(pp.labor_hours) As "Labor Hours",
+	sum(pp.total_cost) As "Total Cost"
+FROM
+project_part pp
+group by
+pp.ppid
+order by
+pp.ppid
+
+
+select
+p1.proj_name,
+p.projectn,
+d.dept_name,
+count(de.dept_no) AS "No. Emps Working"
+from
+Product p
+join
+project_part pp on pp.ppid = p.ppid
+join
+project p1 on p1.proj_id = pp.proj_id
+join
+departments d on pp.associated_dept = d.dept_no
+join 
+dept_emp de on d.dept_no = de.dept_no
+group by
+p1.proj_name,
+p.projectn,
+d.dept_name,
+pp.associated_dept
+order by
+p1.proj_name

@@ -1,0 +1,7 @@
+create table users1 (
+userid serial Primary Key,
+username varchar(250),
+useremail varchar(250),
+uname varchar(250),
+userpass varchar(250)
+)

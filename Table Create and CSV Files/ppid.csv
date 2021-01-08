@@ -1,0 +1,11 @@
+PpId,labor_hours,total_cost,proj_id,associated_dept
+part0,500,7265,p000,d004
+part1,20,295,p001,d004
+part2,8,240,p002,d005
+part3,50,1500,p003,d005
+part4,40,1200,p004,d007
+part5,55,1650,p005,d007
+part6,560,16240,p006,d005
+part7,100,2900,p007,d005
+part8,500,15000,p008,d007
+part9,2800,84000,p009,d007

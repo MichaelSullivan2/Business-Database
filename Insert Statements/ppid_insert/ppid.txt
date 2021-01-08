@@ -1,0 +1,10 @@
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part0',500,7265,'p000','d004');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part1',20,295,'p001','d004');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part2',8,240,'p002','d005');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part3',50,1500,'p003','d005');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part4',40,1200,'p004','d007');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part5',55,1650,'p005','d007');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part6',560,16240,'p006','d005');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part7',100,2900,'p007','d005');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part8',500,15000,'p008','d007');
+INSERT INTO Project_Part(PpId,labor_hours,total_cost,proj_id,associated_dept) VALUES ('part9',2800,84000,'p009','d007');

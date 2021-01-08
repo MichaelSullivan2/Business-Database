@@ -1,0 +1,902 @@
+emp_no,title,from_date,to_date
+19390,Entry Level Marketing,12/12/1999,06/14/2003
+19390,Marketing Strategist,06/14/2003,08/05/2009
+19390,Brand Ambassador,08/05/2009,03/23/2015
+19390,Communications Manager,03/23/2015,01/01/9999
+11946,Entry Level Marketing,01/01/1999,04/30/2004
+11946,Marketing Strategist,04/30/2004,12/08/2009
+11946,Brand Ambassador,12/08/2009,09/11/2014
+11946,Communications Manager,09/11/2014,01/01/9999
+17576,Entry Level Marketing,11/07/2002,09/29/2003
+17576,Marketing Strategist,09/29/2003,03/30/2010
+17576,Brand Ambassador,03/30/2010,06/16/2014
+17576,Communications Manager,06/16/2014,01/01/9999
+16190,Entry Level Marketing,03/09/2002,2/26/2004
+16190,Marketing Strategist,02/26/2004,02/25/2010
+16190,Brand Ambassador,02/25/2010,05/18/2015
+16190,Communications Manager,05/18/2015,01/01/9999
+19187,Entry Level Marketing,10/07/1998,11/11/2003
+19187,Marketing Strategist,11/11/2003,02/18/2010
+19187,Brand Ambassador,02/18/2010,08/02/2014
+19187,Communications Manager,08/02/2014,01/01/9999
+13708,Entry Level Marketing,11/23/1998,06/06/2003
+13708,Marketing Strategist,06/06/2003,02/05/2010
+13708,Brand Ambassador,02/05/2010,11/19/2014
+13708,Communications Manager,11/19/2014,01/01/9999
+19538,Entry Level Marketing,01/05/1999,01/30/2004
+19538,Marketing Strategist,01/30/2004,09/05/2009
+19538,Brand Ambassador,09/05/2009,12/20/2014
+19538,Communications Manager,12/20/2014,01/01/9999
+12563,Entry Level Marketing,02/10/2000,11/02/2003
+12563,Marketing Strategist,11/02/2003,10/17/2009
+12563,Brand Ambassador,10/17/2009,11/19/2014
+12563,Communications Manager,11/19/2014,01/01/9999
+18838,Entry Level Marketing,10/24/1999,09/13/2003
+18838,Marketing Strategist,09/13/2003,03/30/2010
+18838,Brand Ambassador,03/30/2010,12/14/2014
+18838,Communications Manager,12/14/2014,01/01/9999
+12799,Entry Level Marketing,07/22/2001,09/03/2003
+12799,Marketing Strategist,09/03/2003,03/19/2010
+12799,Brand Ambassador,03/19/2010,09/23/2014
+12799,Communications Manager,09/23/2014,01/01/9999
+16136,Entry Level Marketing,01/21/2003,06/07/2004
+16136,Marketing Strategist,06/07/2004,10/18/2009
+16136,Brand Ambassador,10/18/2009,06/22/2015
+16136,Communications Manager,06/22/2015,01/01/9999
+12030,Entry Level Marketing,05/04/2000,06/17/2003
+12030,Marketing Strategist,06/17/2003,02/04/2010
+12030,Brand Ambassador,02/04/2010,11/16/2014
+12030,Communications Manager,11/16/2014,01/01/9999
+12562,Entry Level Marketing,11/02/1998,09/22/2003
+12562,Marketing Strategist,09/22/2003,08/15/2009
+12562,Brand Ambassador,08/15/2009,06/20/2014
+12562,Communications Manager,06/20/2014,01/01/9999
+15682,Entry Level Marketing,05/03/2001,11/29/2003
+15682,Marketing Strategist,11/29/2003,07/27/2009
+15682,Brand Ambassador,07/27/2009,08/06/2014
+15682,Communications Manager,08/06/2014,01/01/9999
+11345,Entry Level Marketing,11/08/2002,12/22/2003
+11345,Marketing Strategist,12/22/2003,01/27/2010
+11345,Brand Ambassador,01/27/2010,09/15/2014
+11345,Communications Manager,09/15/2014,01/01/9999
+19374,Entry Level Marketing,02/06/2002,02/20/2004
+19374,Marketing Strategist,02/20/2004,02/02/2010
+19374,Brand Ambassador,02/02/2010,10/19/2014
+19374,Communications Manager,10/19/2014,01/01/9999
+12575,Entry Level Marketing,06/14/2001,05/27/2004
+12575,Marketing Strategist,05/27/2004,08/08/2009
+12575,Brand Ambassador,08/08/2009,02/02/2015
+12575,Communications Manager,02/02/2015,01/01/9999
+13345,Entry Level Marketing,06/13/2002,04/29/2004
+13345,Marketing Strategist,04/29/2004,04/14/2010
+13345,Brand Ambassador,04/14/2010,06/29/2014
+13345,Communications Manager,06/29/2014,01/01/9999
+17632,Entry Level Marketing,01/26/1999,01/10/2004
+17632,Marketing Strategist,01/10/2004,08/04/2009
+17632,Brand Ambassador,08/04/2009,08/12/2014
+17632,Communications Manager,08/12/2014,01/01/9999
+14270,Entry Level Marketing,12/12/2001,11/27/2003
+14270,Marketing Strategist,11/27/2003,07/01/2009
+14270,Brand Ambassador,07/01/2009,04/12/2015
+14270,Communications Manager,04/12/2015,01/01/9999
+17218,Entry Level Marketing,04/19/2002,05/17/2004
+17218,Marketing Strategist,05/17/2004,01/12/2010
+17218,Brand Ambassador,01/12/2010,10/28/2014
+17218,Communications Manager,10/28/2014,01/01/9999
+11792,Entry Level Marketing,07/29/2001,12/05/2003
+11792,Marketing Strategist,12/05/2003,05/08/2010
+11792,Brand Ambassador,05/08/2010,03/24/2015
+11792,Communications Manager,03/24/2015,01/01/9999
+11066,Entry Level Marketing,08/07/2002,12/25/2003
+11066,Marketing Strategist,12/25/2003,12/08/2009
+11066,Brand Ambassador,12/08/2009,04/30/2015
+11066,Communications Manager,04/30/2015,01/01/9999
+14443,Entry Level Marketing,01/13/2002,06/24/2003
+14443,Marketing Strategist,06/24/2003,12/06/2009
+14443,Brand Ambassador,12/06/2009,11/26/2014
+14443,Communications Manager,11/26/2014,01/01/9999
+19883,Entry Level Marketing,12/31/2001,07/22/2003
+19883,Marketing Strategist,07/22/2003,01/02/2010
+19883,Brand Ambassador,01/02/2010,05/21/2015
+19883,Communications Manager,05/21/2015,01/01/9999
+10387,Entry Level Marketing,10/22/2002,12/09/2003
+10387,Marketing Strategist,12/09/2003,11/08/2009
+10387,Brand Ambassador,11/08/2009,06/21/2015
+10387,Communications Manager,06/21/2015,01/01/9999
+16613,Entry Level Marketing,05/07/2002,05/14/2004
+16613,Marketing Strategist,05/14/2004,10/10/2009
+16613,Brand Ambassador,10/10/2009,06/14/2015
+16613,Communications Manager,06/14/2015,01/01/9999
+18326,Entry Level Marketing,02/17/1999,04/30/2004
+18326,Marketing Strategist,04/30/2004,07/01/2010
+18326,Brand Ambassador,07/01/2010,06/09/2015
+18326,Communications Manager,06/09/2015,01/01/9999
+12879,Financial Analyst,11/11/1998,08/03/2003
+12879,Finnancial Accountant,08/03/2003,05/03/2010
+12879,Senior Accounting,05/03/2010,02/02/2015
+12879,Finance Management,02/02/2015,01/01/9999
+12882,Financial Analyst,10/31/1998,04/20/2004
+12882,Finnancial Accountant,04/20/2004,05/14/2010
+12882,Senior Accounting,05/14/2010,08/28/2014
+12882,Finance Management,08/28/2014,01/01/9999
+15484,Financial Analyst,12/18/2002,05/02/2004
+15484,Finnancial Accountant,05/02/2004,01/16/2010
+15484,Senior Accounting,01/16/2010,08/13/2014
+15484,Finance Management,08/13/2014,01/01/9999
+13631,Financial Analyst,08/23/2002,03/15/2004
+13631,Finnancial Accountant,03/15/2004,08/03/2009
+13631,Senior Accounting,08/03/2009,08/24/2014
+13631,Finance Management,08/24/2014,01/01/9999
+10391,Financial Analyst,10/10/1999,04/22/2004
+10391,Finnancial Accountant,04/22/2004,08/08/2009
+10391,Senior Accounting,08/08/2009,05/26/2015
+10391,Finance Management,05/26/2015,01/01/9999
+17895,Financial Analyst,05/04/1999,09/04/2003
+17895,Finnancial Accountant,09/04/2003,11/19/2009
+17895,Senior Accounting,11/19/2009,05/22/2015
+17895,Finance Management,05/22/2015,01/01/9999
+10246,Financial Analyst,11/14/1999,03/01/2004
+10246,Finnancial Accountant,03/01/2004,07/24/2009
+10246,Senior Accounting,07/24/2009,04/14/2015
+10246,Finance Management,04/14/2015,01/01/9999
+18121,Financial Analyst,03/20/1999,05/02/2004
+18121,Finnancial Accountant,05/02/2004,10/13/2009
+18121,Senior Accounting,10/13/2009,06/22/2015
+18121,Finance Management,06/22/2015,01/01/9999
+14196,Financial Analyst,05/31/2001,02/04/2004
+14196,Finnancial Accountant,02/04/2004,02/18/2010
+14196,Senior Accounting,02/18/2010,01/14/2015
+14196,Finance Management,01/14/2015,01/01/9999
+18682,Financial Analyst,12/08/2002,07/12/2003
+18682,Finnancial Accountant,07/12/2003,03/29/2010
+18682,Senior Accounting,03/29/2010,07/03/2015
+18682,Finance Management,07/03/2015,01/01/9999
+17549,Financial Analyst,01/06/1999,06/29/2003
+17549,Finnancial Accountant,06/29/2003,03/26/2010
+17549,Senior Accounting,03/26/2010,06/28/2014
+17549,Finance Management,06/28/2014,01/01/9999
+15799,Financial Analyst,10/20/2000,09/05/2003
+15799,Finnancial Accountant,09/05/2003,03/16/2010
+15799,Senior Accounting,03/16/2010,10/01/2014
+15799,Finance Management,10/01/2014,01/01/9999
+19099,Financial Analyst,03/14/1999,10/24/2003
+19099,Finnancial Accountant,10/24/2003,09/15/2009
+19099,Senior Accounting,09/15/2009,07/03/2015
+19099,Finance Management,07/03/2015,01/01/9999
+14149,Financial Analyst,11/14/1999,06/27/2003
+14149,Finnancial Accountant,06/27/2003,10/12/2009
+14149,Senior Accounting,10/12/2009,12/09/2014
+14149,Finance Management,12/09/2014,01/01/9999
+14268,Financial Analyst,10/14/1999,07/02/2004
+14268,Finnancial Accountant,07/02/2004,09/26/2009
+14268,Senior Accounting,09/26/2009,05/25/2015
+14268,Finance Management,05/25/2015,01/01/9999
+18099,Financial Analyst,05/21/2000,05/26/2004
+18099,Finnancial Accountant,05/26/2004,01/22/2010
+18099,Senior Accounting,01/22/2010,11/17/2014
+18099,Finance Management,11/17/2014,01/01/9999
+10726,Financial Analyst,03/20/1999,08/22/2003
+10726,Finnancial Accountant,08/22/2003,01/10/2010
+10726,Senior Accounting,01/10/2010,10/28/2014
+10726,Finance Management,10/28/2014,01/01/9999
+11524,Financial Analyst,09/17/2002,02/05/2004
+11524,Finnancial Accountant,02/05/2004,11/30/2009
+11524,Senior Accounting,11/30/2009,09/26/2014
+11524,Finance Management,09/26/2014,01/01/9999
+15895,Financial Analyst,02/09/1999,01/03/2004
+15895,Finnancial Accountant,01/03/2004,12/15/2009
+15895,Senior Accounting,12/15/2009,09/01/2014
+15895,Finance Management,09/01/2014,01/01/9999
+12105,Financial Analyst,03/09/1999,06/15/2003
+12105,Finnancial Accountant,06/15/2003,05/30/2010
+12105,Senior Accounting,05/30/2010,08/11/2014
+12105,Finance Management,08/11/2014,01/01/9999
+12092,Financial Analyst,07/17/2000,06/01/2004
+12092,Finnancial Accountant,06/01/2004,07/01/2009
+12092,Senior Accounting,07/01/2009,02/05/2015
+12092,Finance Management,02/05/2015,01/01/9999
+13840,Financial Analyst,05/30/2001,03/23/2004
+13840,Finnancial Accountant,03/23/2004,10/19/2009
+13840,Senior Accounting,10/19/2009,10/17/2014
+13840,Finance Management,10/17/2014,01/01/9999
+17211,Financial Analyst,09/29/2001,01/07/2004
+17211,Finnancial Accountant,01/07/2004,09/07/2009
+17211,Senior Accounting,09/07/2009,12/08/2014
+17211,Finance Management,12/08/2014,01/01/9999
+12887,Financial Analyst,04/20/1999,10/23/2003
+12887,Finnancial Accountant,10/23/2003,06/07/2010
+12887,Senior Accounting,06/07/2010,06/16/2015
+12887,Finance Management,06/16/2015,01/01/9999
+10676,Financial Analyst,04/22/2001,11/15/2003
+10676,Finnancial Accountant,11/15/2003,06/25/2010
+10676,Senior Accounting,06/25/2010,11/05/2014
+10676,Finance Management,11/05/2014,01/01/9999
+13507,Financial Analyst,10/27/2000,06/11/2004
+13507,Finnancial Accountant,06/11/2004,10/09/2009
+13507,Senior Accounting,10/09/2009,01/21/2015
+13507,Finance Management,01/21/2015,01/01/9999
+17156,Financial Analyst,05/28/2001,08/14/2003
+17156,Finnancial Accountant,08/14/2003,01/06/2010
+17156,Senior Accounting,01/06/2010,03/06/2015
+17156,Finance Management,03/06/2015,01/01/9999
+17296,Financial Analyst,08/19/1999,09/14/2003
+17296,Finnancial Accountant,09/14/2003,08/09/2009
+17296,Senior Accounting,08/09/2009,12/11/2014
+17296,Finance Management,12/11/2014,01/01/9999
+18389,Entry Level Recruiter,04/03/2002,06/17/2003
+18389,Human Resource Associate,06/17/2003,07/26/2009
+18389,Human Resource Specialist,07/26/2009,09/26/2014
+18389,Human Resources Coordinator,09/26/2014,01/01/9999
+16708,Entry Level Recruiter,10/31/2001,08/21/2003
+16708,Human Resource Associate,08/21/2003,09/19/2009
+16708,Human Resource Specialist,09/19/2009,01/12/2015
+16708,Human Resources Coordinator,01/12/2015,01/01/9999
+18527,Entry Level Recruiter,04/27/1999,01/10/2004
+18527,Human Resource Associate,01/10/2004,08/01/2009
+18527,Human Resource Specialist,08/01/2009,05/03/2015
+18527,Human Resources Coordinator,05/03/2015,01/01/9999
+19393,Entry Level Recruiter,06/24/2002,03/13/2004
+19393,Human Resource Associate,03/13/2004,12/31/2009
+19393,Human Resource Specialist,12/31/2009,07/22/2014
+19393,Human Resources Coordinator,07/22/2014,01/01/9999
+18547,Entry Level Recruiter,02/29/2000,07/18/2003
+18547,Human Resource Associate,07/18/2003,06/30/2010
+18547,Human Resource Specialist,06/30/2010,02/09/2015
+18547,Human Resources Coordinator,02/09/2015,01/01/9999
+12021,Entry Level Recruiter,03/01/2000,03/19/2004
+12021,Human Resource Associate,03/19/2004,06/01/2010
+12021,Human Resource Specialist,06/01/2010,04/27/2015
+12021,Human Resources Coordinator,04/27/2015,01/01/9999
+18764,Entry Level Recruiter,08/02/2002,02/05/2004
+18764,Human Resource Associate,02/05/2004,06/12/2010
+18764,Human Resource Specialist,06/12/2010,12/29/2014
+18764,Human Resources Coordinator,12/29/2014,01/01/9999
+10836,Entry Level Recruiter,04/28/1999,02/21/2004
+10836,Human Resource Associate,02/21/2004,12/13/2009
+10836,Human Resource Specialist,12/13/2009,03/24/2015
+10836,Human Resources Coordinator,03/24/2015,01/01/9999
+18859,Entry Level Recruiter,02/26/2003,08/28/2003
+18859,Human Resource Associate,08/28/2003,05/21/2010
+18859,Human Resource Specialist,05/21/2010,06/12/2015
+18859,Human Resources Coordinator,06/12/2015,01/01/9999
+19231,Entry Level Recruiter,04/19/2000,08/19/2003
+19231,Human Resource Associate,08/19/2003,06/18/2010
+19231,Human Resource Specialist,06/18/2010,09/04/2014
+19231,Human Resources Coordinator,09/04/2014,01/01/9999
+15154,Entry Level Recruiter,12/25/2001,10/05/2003
+15154,Human Resource Associate,10/05/2003,09/21/2009
+15154,Human Resource Specialist,09/21/2009,07/18/2014
+15154,Human Resources Coordinator,07/18/2014,01/01/9999
+18088,Entry Level Recruiter,09/20/1999,08/12/2003
+18088,Human Resource Associate,08/12/2003,02/15/2010
+18088,Human Resource Specialist,02/15/2010,12/10/2014
+18088,Human Resources Coordinator,12/10/2014,01/01/9999
+17065,Entry Level Recruiter,12/13/2000,06/27/2004
+17065,Human Resource Associate,06/27/2004,12/27/2009
+17065,Human Resource Specialist,12/27/2009,08/31/2014
+17065,Human Resources Coordinator,08/31/2014,01/01/9999
+16182,Entry Level Recruiter,09/25/2001,04/13/2004
+16182,Human Resource Associate,04/13/2004,11/28/2009
+16182,Human Resource Specialist,11/28/2009,05/08/2015
+16182,Human Resources Coordinator,05/08/2015,01/01/9999
+19819,Entry Level Recruiter,05/21/2001,12/24/2003
+19819,Human Resource Associate,12/24/2003,06/18/2009
+19819,Human Resource Specialist,06/18/2009,06/12/2014
+19819,Human Resources Coordinator,06/12/2014,01/01/9999
+18147,Entry Level Recruiter,06/20/2002,08/05/2003
+18147,Human Resource Associate,08/05/2003,06/28/2010
+18147,Human Resource Specialist,06/28/2010,08/29/2014
+18147,Human Resources Coordinator,08/29/2014,01/01/9999
+11941,Entry Level Recruiter,06/28/2000,07/06/2003
+11941,Human Resource Associate,07/06/2003,12/13/2009
+11941,Human Resource Specialist,12/13/2009,11/18/2014
+11941,Human Resources Coordinator,11/18/2014,01/01/9999
+15909,Entry Level Recruiter,08/10/2002,06/07/2004
+15909,Human Resource Associate,06/07/2004,08/25/2009
+15909,Human Resource Specialist,08/25/2009,12/17/2014
+15909,Human Resources Coordinator,12/17/2014,01/01/9999
+14381,Entry Level Recruiter,02/07/2001,07/05/2004
+14381,Human Resource Associate,07/05/2004,04/18/2010
+14381,Human Resource Specialist,04/18/2010,06/27/2014
+14381,Human Resources Coordinator,06/27/2014,01/01/9999
+16430,Entry Level Recruiter,03/23/1999,05/29/2004
+16430,Human Resource Associate,05/29/2004,05/20/2010
+16430,Human Resource Specialist,05/20/2010,11/14/2014
+16430,Human Resources Coordinator,11/14/2014,01/01/9999
+13302,Entry Level Recruiter,12/06/2000,06/27/2004
+13302,Human Resource Associate,06/27/2004,02/02/2010
+13302,Human Resource Specialist,02/02/2010,02/10/2015
+13302,Human Resources Coordinator,02/10/2015,01/01/9999
+11836,Entry Level Recruiter,07/15/2002,10/02/2003
+11836,Human Resource Associate,10/02/2003,10/14/2009
+11836,Human Resource Specialist,10/14/2009,11/14/2014
+11836,Human Resources Coordinator,11/14/2014,01/01/9999
+15432,Entry Level Recruiter,11/25/2002,05/04/2004
+15432,Human Resource Associate,05/04/2004,05/20/2010
+15432,Human Resource Specialist,05/20/2010,08/25/2014
+15432,Human Resources Coordinator,08/25/2014,01/01/9999
+16941,Entry Level Recruiter,01/28/2000,06/29/2004
+16941,Human Resource Associate,06/29/2004,06/17/2010
+16941,Human Resource Specialist,06/17/2010,07/05/2014
+16941,Human Resources Coordinator,07/05/2014,01/01/9999
+10287,Entry Level Recruiter,08/11/2002,07/29/2003
+10287,Human Resource Associate,07/29/2003,09/14/2009
+10287,Human Resource Specialist,09/14/2009,11/29/2014
+10287,Human Resources Coordinator,11/29/2014,01/01/9999
+13589,Entry Level Recruiter,02/14/2000,11/12/2003
+13589,Human Resource Associate,11/12/2003,05/03/2010
+13589,Human Resource Specialist,05/03/2010,04/13/2015
+13589,Human Resources Coordinator,04/13/2015,01/01/9999
+19351,Entry Level Recruiter,04/03/1999,06/23/2004
+19351,Human Resource Associate,06/23/2004,08/27/2009
+19351,Human Resource Specialist,08/27/2009,10/16/2014
+19351,Human Resources Coordinator,10/16/2014,01/01/9999
+18987,Entry Level Recruiter,10/29/2002,09/04/2003
+18987,Human Resource Associate,09/04/2003,03/03/2010
+18987,Human Resource Specialist,03/03/2010,06/04/2015
+18987,Human Resources Coordinator,06/04/2015,01/01/9999
+18032,Production Worker,08/25/2002,02/18/2004
+18032,Entry Level Assembly,02/18/2004,06/28/2010
+18032,Production Assistant,06/28/2010,09/07/2014
+18032,Production Manager,09/07/2014,01/01/9999
+19366,Production Worker,01/19/1999,12/13/2003
+19366,Entry Level Assembly,12/13/2003,08/15/2009
+19366,Production Assistant,08/15/2009,11/17/2014
+19366,Production Manager,11/17/2014,01/01/9999
+17105,Production Worker,10/24/2000,05/11/2004
+17105,Entry Level Assembly,05/11/2004,10/02/2009
+17105,Production Assistant,10/02/2009,10/31/2014
+17105,Production Manager,10/31/2014,01/01/9999
+19476,Production Worker,03/24/2000,11/09/2003
+19476,Entry Level Assembly,11/09/2003,09/26/2009
+19476,Production Assistant,09/26/2009,10/18/2014
+19476,Production Manager,10/18/2014,01/01/9999
+17634,Production Worker,11/29/1999,07/02/2004
+17634,Entry Level Assembly,07/02/2004,10/25/2009
+17634,Production Assistant,10/25/2009,03/13/2015
+17634,Production Manager,03/13/2015,01/01/9999
+19964,Production Worker,05/14/2002,02/05/2004
+19964,Entry Level Assembly,02/05/2004,03/26/2010
+19964,Production Assistant,03/26/2010,04/26/2015
+19964,Production Manager,04/26/2015,01/01/9999
+16396,Production Worker,10/06/2001,06/24/2004
+16396,Entry Level Assembly,06/24/2004,05/20/2010
+16396,Production Assistant,05/20/2010,08/16/2014
+16396,Production Manager,08/16/2014,01/01/9999
+19562,Production Worker,08/05/2000,06/15/2004
+19562,Entry Level Assembly,06/15/2004,06/03/2010
+19562,Production Assistant,06/03/2010,08/25/2014
+19562,Production Manager,08/25/2014,01/01/9999
+13854,Production Worker,11/23/1998,06/07/2004
+13854,Entry Level Assembly,06/07/2004,07/02/2009
+13854,Production Assistant,07/02/2009,04/04/2015
+13854,Production Manager,04/04/2015,01/01/9999
+14377,Production Worker,09/27/2002,04/27/2004
+14377,Entry Level Assembly,04/27/2004,09/05/2009
+14377,Production Assistant,09/05/2009,01/19/2015
+14377,Production Manager,01/19/2015,01/01/9999
+15491,Production Worker,12/22/2002,05/28/2004
+15491,Entry Level Assembly,05/28/2004,05/21/2010
+15491,Production Assistant,05/21/2010,06/14/2015
+15491,Production Manager,06/14/2015,01/01/9999
+12229,Production Worker,11/19/2001,06/08/2003
+12229,Entry Level Assembly,06/08/2003,07/14/2009
+12229,Production Assistant,07/14/2009,03/28/2015
+12229,Production Manager,03/28/2015,01/01/9999
+15147,Production Worker,03/11/2002,01/01/2004
+15147,Entry Level Assembly,01/01/2004,09/28/2009
+15147,Production Assistant,09/28/2009,01/13/2015
+15147,Production Manager,01/13/2015,01/01/9999
+10381,Production Worker,09/05/2001,12/15/2003
+10381,Entry Level Assembly,12/15/2003,02/15/2010
+10381,Production Assistant,02/15/2010,04/30/2015
+10381,Production Manager,04/30/2015,01/01/9999
+16773,Production Worker,12/28/2001,08/13/2003
+16773,Entry Level Assembly,08/13/2003,07/02/2010
+16773,Production Assistant,07/02/2010,04/24/2015
+16773,Production Manager,04/24/2015,01/01/9999
+14315,Production Worker,03/04/2002,01/13/2004
+14315,Entry Level Assembly,01/13/2004,04/09/2010
+14315,Production Assistant,04/09/2010,10/01/2014
+14315,Production Manager,10/01/2014,01/01/9999
+13694,Production Worker,05/28/2002,11/04/2003
+13694,Entry Level Assembly,11/04/2003,08/14/2009
+13694,Production Assistant,08/14/2009,05/24/2015
+13694,Production Manager,05/24/2015,01/01/9999
+16530,Production Worker,02/18/2000,11/03/2003
+16530,Entry Level Assembly,11/03/2003,06/17/2010
+16530,Production Assistant,06/17/2010,01/31/2015
+16530,Production Manager,01/31/2015,01/01/9999
+11255,Production Worker,01/14/2000,12/14/2003
+11255,Entry Level Assembly,12/14/2003,04/08/2010
+11255,Production Assistant,04/08/2010,06/08/2015
+11255,Production Manager,06/08/2015,01/01/9999
+14499,Production Worker,01/23/2002,05/17/2004
+14499,Entry Level Assembly,05/17/2004,04/06/2010
+14499,Production Assistant,04/06/2010,04/01/2015
+14499,Production Manager,04/01/2015,01/01/9999
+17030,Production Worker,11/12/1999,06/19/2004
+17030,Entry Level Assembly,06/19/2004,11/25/2009
+17030,Production Assistant,11/25/2009,07/28/2014
+17030,Production Manager,07/28/2014,01/01/9999
+13530,Production Worker,04/15/1999,01/28/2004
+13530,Entry Level Assembly,01/28/2004,07/13/2009
+13530,Production Assistant,07/13/2009,02/17/2015
+13530,Production Manager,02/17/2015,01/01/9999
+15548,Production Worker,10/10/1998,05/31/2004
+15548,Entry Level Assembly,05/31/2004,02/07/2010
+15548,Production Assistant,02/07/2010,12/19/2014
+15548,Production Manager,12/19/2014,01/01/9999
+14213,Production Worker,12/06/2002,08/07/2003
+14213,Entry Level Assembly,08/07/2003,01/19/2010
+14213,Production Assistant,01/19/2010,09/03/2014
+14213,Production Manager,09/03/2014,01/01/9999
+10358,Production Worker,12/20/1999,07/01/2004
+10358,Entry Level Assembly,07/01/2004,08/16/2009
+10358,Production Assistant,08/16/2009,11/21/2014
+10358,Production Manager,11/21/2014,01/01/9999
+19886,Production Worker,04/12/2001,10/02/2003
+19886,Entry Level Assembly,10/02/2003,11/11/2009
+19886,Production Assistant,11/11/2009,04/22/2015
+19886,Production Manager,04/22/2015,01/01/9999
+18111,Production Worker,05/02/2000,03/15/2004
+18111,Entry Level Assembly,03/15/2004,09/26/2009
+18111,Production Assistant,09/26/2009,03/21/2015
+18111,Production Manager,03/21/2015,01/01/9999
+14496,Production Worker,12/14/1999,07/30/2003
+14496,Entry Level Assembly,07/30/2003,12/08/2009
+14496,Production Assistant,12/08/2009,12/07/2014
+14496,Production Manager,12/07/2014,01/01/9999
+15125,Web Developer,05/10/2002,03/18/2004
+15125,Junior Web Dev,03/18/2004,10/15/2009
+15125,Senior Web Development,10/15/2009,12/07/2014
+15125,Development Project Manager,12/07/2014,01/01/9999
+12510,Web Developer,04/13/1999,03/19/2004
+12510,Junior Web Dev,03/19/2004,12/08/2009
+12510,Senior Web Development,12/08/2009,11/13/2014
+12510,Development Project Manager,11/13/2014,01/01/9999
+16064,Web Developer,06/25/1999,05/07/2004
+16064,Junior Web Dev,05/07/2004,07/01/2010
+16064,Senior Web Development,07/01/2010,08/06/2014
+16064,Development Project Manager,08/06/2014,01/01/9999
+17887,Web Developer,08/25/2002,04/30/2004
+17887,Junior Web Dev,04/30/2004,02/08/2010
+17887,Senior Web Development,02/08/2010,01/10/2015
+17887,Development Project Manager,01/10/2015,01/01/9999
+10518,Web Developer,02/24/2000,10/20/2003
+10518,Junior Web Dev,10/20/2003,06/21/2009
+10518,Senior Web Development,06/21/2009,08/09/2014
+10518,Development Project Manager,08/09/2014,01/01/9999
+15436,Web Developer,01/19/2000,02/03/2004
+15436,Junior Web Dev,02/03/2004,12/11/2009
+15436,Senior Web Development,12/11/2009,06/27/2015
+15436,Development Project Manager,06/27/2015,01/01/9999
+19371,Web Developer,04/16/2001,10/29/2003
+19371,Junior Web Dev,10/29/2003,04/17/2010
+19371,Senior Web Development,04/17/2010,08/19/2014
+19371,Development Project Manager,08/19/2014,01/01/9999
+16316,Web Developer,03/08/2002,11/01/2003
+16316,Junior Web Dev,11/01/2003,06/02/2010
+16316,Senior Web Development,06/02/2010,06/20/2015
+16316,Development Project Manager,06/20/2015,01/01/9999
+11973,Web Developer,12/31/1998,09/26/2003
+11973,Junior Web Dev,09/26/2003,05/23/2010
+11973,Senior Web Development,05/23/2010,07/31/2014
+11973,Development Project Manager,07/31/2014,01/01/9999
+17524,Web Developer,01/23/1999,02/04/2004
+17524,Junior Web Dev,02/04/2004,03/22/2010
+17524,Senior Web Development,03/22/2010,06/16/2015
+17524,Development Project Manager,06/16/2015,01/01/9999
+18883,Web Developer,04/18/2003,06/16/2004
+18883,Junior Web Dev,06/16/2004,06/23/2009
+18883,Senior Web Development,06/23/2009,12/02/2014
+18883,Development Project Manager,12/02/2014,01/01/9999
+18562,Web Developer,08/07/2001,08/01/2003
+18562,Junior Web Dev,08/01/2003,03/19/2010
+18562,Senior Web Development,03/19/2010,12/21/2014
+18562,Development Project Manager,12/21/2014,01/01/9999
+10724,Web Developer,02/27/1999,04/03/2004
+10724,Junior Web Dev,04/03/2004,08/25/2009
+10724,Senior Web Development,08/25/2009,06/17/2014
+10724,Development Project Manager,06/17/2014,01/01/9999
+17535,Web Developer,11/25/2002,12/09/2003
+17535,Junior Web Dev,12/09/2003,12/05/2009
+17535,Senior Web Development,12/05/2009,03/17/2015
+17535,Development Project Manager,03/17/2015,01/01/9999
+16082,Web Developer,12/01/1998,02/26/2004
+16082,Junior Web Dev,02/26/2004,07/10/2009
+16082,Senior Web Development,07/10/2009,03/16/2015
+16082,Development Project Manager,03/16/2015,01/01/9999
+15932,Web Developer,03/30/2003,01/08/2004
+15932,Junior Web Dev,01/08/2004,09/02/2009
+15932,Senior Web Development,09/02/2009,06/16/2015
+15932,Development Project Manager,06/16/2015,01/01/9999
+11634,Web Developer,03/31/2003,11/09/2003
+11634,Junior Web Dev,11/09/2003,10/06/2009
+11634,Senior Web Development,10/06/2009,09/30/2014
+11634,Development Project Manager,09/30/2014,01/01/9999
+12082,Web Developer,05/15/1999,05/24/2004
+12082,Junior Web Dev,05/24/2004,08/30/2009
+12082,Senior Web Development,08/30/2009,09/15/2014
+12082,Development Project Manager,09/15/2014,01/01/9999
+19711,Web Developer,03/14/2001,07/08/2003
+19711,Junior Web Dev,07/08/2003,08/21/2009
+19711,Senior Web Development,08/21/2009,02/02/2015
+19711,Development Project Manager,02/02/2015,01/01/9999
+19436,Web Developer,11/27/1998,02/03/2004
+19436,Junior Web Dev,02/03/2004,10/08/2009
+19436,Senior Web Development,10/08/2009,02/01/2015
+19436,Development Project Manager,02/01/2015,01/01/9999
+18899,Web Developer,02/02/2003,03/13/2004
+18899,Junior Web Dev,03/13/2004,02/20/2010
+18899,Senior Web Development,02/20/2010,09/02/2014
+18899,Development Project Manager,09/02/2014,01/01/9999
+16184,Web Developer,09/08/2000,11/02/2003
+16184,Junior Web Dev,11/02/2003,04/07/2010
+16184,Senior Web Development,04/07/2010,06/13/2014
+16184,Development Project Manager,06/13/2014,01/01/9999
+10827,Web Developer,06/26/1999,06/26/2003
+10827,Junior Web Dev,06/26/2003,06/10/2009
+10827,Senior Web Development,06/10/2009,11/04/2014
+10827,Development Project Manager,11/04/2014,01/01/9999
+17688,Web Developer,06/14/2000,04/11/2004
+17688,Junior Web Dev,04/11/2004,03/19/2010
+17688,Senior Web Development,03/19/2010,12/06/2014
+17688,Development Project Manager,12/06/2014,01/01/9999
+15809,Web Developer,03/19/2000,01/16/2004
+15809,Junior Web Dev,01/16/2004,02/27/2010
+15809,Senior Web Development,02/27/2010,10/06/2014
+15809,Development Project Manager,10/06/2014,01/01/9999
+12752,Web Developer,02/19/2000,09/02/2003
+12752,Junior Web Dev,09/02/2003,06/17/2009
+12752,Senior Web Development,06/17/2009,05/15/2015
+12752,Development Project Manager,05/15/2015,01/01/9999
+16713,Web Developer,03/20/2001,02/25/2004
+16713,Junior Web Dev,02/25/2004,10/05/2009
+16713,Senior Web Development,10/05/2009,07/03/2014
+16713,Development Project Manager,07/03/2014,01/01/9999
+19681,Web Developer,11/20/1999,07/01/2004
+19681,Junior Web Dev,07/01/2004,01/13/2010
+19681,Senior Web Development,01/13/2010,05/17/2015
+19681,Development Project Manager,05/17/2015,01/01/9999
+11144,Entry Level Sales,07/22/2001,05/08/2004
+11144,Retail Associate,05/08/2004,01/14/2010
+11144,Sales Representative,01/14/2010,06/30/2014
+11144,Sales Lead,06/30/2014,01/01/9999
+11796,Entry Level Sales,12/19/1998,01/01/2004
+11796,Retail Associate,01/01/2004,06/10/2009
+11796,Sales Representative,06/10/2009,12/02/2014
+11796,Sales Lead,12/02/2014,01/01/9999
+10803,Entry Level Sales,11/30/2002,09/17/2003
+10803,Retail Associate,09/17/2003,06/05/2010
+10803,Sales Representative,06/05/2010,09/26/2014
+10803,Sales Lead,09/26/2014,01/01/9999
+11041,Entry Level Sales,12/10/2000,10/31/2003
+11041,Retail Associate,10/31/2003,10/31/2009
+11041,Sales Representative,10/31/2009,07/19/2014
+11041,Sales Lead,07/19/2014,01/01/9999
+11017,Entry Level Sales,10/14/2002,05/16/2004
+11017,Retail Associate,05/16/2004,12/20/2009
+11017,Sales Representative,12/20/2009,03/17/2015
+11017,Sales Lead,03/17/2015,01/01/9999
+14317,Entry Level Sales,01/01/2001,10/08/2003
+14317,Retail Associate,10/08/2003,03/20/2010
+14317,Sales Representative,03/20/2010,05/01/2015
+14317,Sales Lead,05/01/2015,01/01/9999
+14517,Entry Level Sales,08/06/2000,05/09/2004
+14517,Retail Associate,05/09/2004,01/24/2010
+14517,Sales Representative,01/24/2010,07/26/2014
+14517,Sales Lead,07/26/2014,01/01/9999
+16417,Entry Level Sales,01/15/2000,04/21/2004
+16417,Retail Associate,04/21/2004,06/28/2010
+16417,Sales Representative,06/28/2010,07/23/2014
+16417,Sales Lead,07/23/2014,01/01/9999
+16173,Entry Level Sales,04/08/2000,05/04/2004
+16173,Retail Associate,05/04/2004,11/16/2009
+16173,Sales Representative,11/16/2009,06/27/2014
+16173,Sales Lead,06/27/2014,01/01/9999
+18581,Entry Level Sales,04/03/2000,01/13/2004
+18581,Retail Associate,01/13/2004,09/04/2009
+18581,Sales Representative,09/04/2009,03/23/2015
+18581,Sales Lead,03/23/2015,01/01/9999
+17760,Entry Level Sales,04/24/2000,06/05/2004
+17760,Retail Associate,06/05/2004,07/21/2009
+17760,Sales Representative,07/21/2009,01/19/2015
+17760,Sales Lead,01/19/2015,01/01/9999
+17793,Entry Level Sales,08/04/2002,10/01/2003
+17793,Retail Associate,10/01/2003,09/18/2009
+17793,Sales Representative,09/18/2009,07/04/2015
+17793,Sales Lead,07/04/2015,01/01/9999
+11739,Entry Level Sales,10/06/1998,02/28/2004
+11739,Retail Associate,02/28/2004,06/06/2010
+11739,Sales Representative,06/06/2010,12/14/2014
+11739,Sales Lead,12/14/2014,01/01/9999
+19749,Entry Level Sales,06/24/2001,03/12/2004
+19749,Retail Associate,03/12/2004,10/27/2009
+19749,Sales Representative,10/27/2009,04/20/2015
+19749,Sales Lead,04/20/2015,01/01/9999
+13065,Entry Level Sales,04/19/1999,12/30/2003
+13065,Retail Associate,12/30/2003,09/26/2009
+13065,Sales Representative,09/26/2009,02/09/2015
+13065,Sales Lead,02/09/2015,01/01/9999
+18912,Entry Level Sales,03/01/1999,06/16/2004
+18912,Retail Associate,06/16/2004,08/30/2009
+18912,Sales Representative,08/30/2009,05/11/2015
+18912,Sales Lead,05/11/2015,01/01/9999
+11753,Entry Level Sales,09/12/2001,02/05/2004
+11753,Retail Associate,02/05/2004,06/08/2010
+11753,Sales Representative,06/08/2010,08/31/2014
+11753,Sales Lead,08/31/2014,01/01/9999
+10465,Entry Level Sales,06/04/2000,10/27/2003
+10465,Retail Associate,10/27/2003,02/19/2010
+10465,Sales Representative,02/19/2010,05/11/2015
+10465,Sales Lead,05/11/2015,01/01/9999
+10038,Entry Level Sales,03/04/2000,09/22/2003
+10038,Retail Associate,09/22/2003,11/03/2009
+10038,Sales Representative,11/03/2009,07/15/2014
+10038,Sales Lead,07/15/2014,01/01/9999
+17411,Entry Level Sales,02/10/2001,04/30/2004
+17411,Retail Associate,04/30/2004,07/22/2009
+17411,Sales Representative,07/22/2009,07/14/2014
+17411,Sales Lead,07/14/2014,01/01/9999
+12534,Entry Level Sales,08/12/1999,03/21/2004
+12534,Retail Associate,03/21/2004,05/16/2010
+12534,Sales Representative,05/16/2010,02/25/2015
+12534,Sales Lead,02/25/2015,01/01/9999
+17630,Entry Level Sales,07/12/1999,12/23/2003
+17630,Retail Associate,12/23/2003,03/06/2010
+17630,Sales Representative,03/06/2010,06/09/2014
+17630,Sales Lead,06/09/2014,01/01/9999
+13428,Entry Level Sales,08/01/1999,04/03/2004
+13428,Retail Associate,04/03/2004,05/07/2010
+13428,Sales Representative,05/07/2010,02/24/2015
+13428,Sales Lead,02/24/2015,01/01/9999
+16987,Entry Level Sales,08/11/1999,01/15/2004
+16987,Retail Associate,01/15/2004,01/13/2010
+16987,Sales Representative,01/13/2010,02/14/2015
+16987,Sales Lead,02/14/2015,01/01/9999
+10992,Entry Level Sales,09/09/2002,06/04/2004
+10992,Retail Associate,06/04/2004,01/03/2010
+10992,Sales Representative,01/03/2010,07/07/2014
+10992,Sales Lead,07/07/2014,01/01/9999
+10214,Entry Level Sales,09/17/2001,02/28/2004
+10214,Retail Associate,02/28/2004,04/08/2010
+10214,Sales Representative,04/08/2010,09/26/2014
+10214,Sales Lead,09/26/2014,01/01/9999
+11333,Entry Level Sales,03/20/2003,08/05/2003
+11333,Retail Associate,08/05/2003,07/19/2009
+11333,Sales Representative,07/19/2009,10/10/2014
+11333,Sales Lead,10/10/2014,01/01/9999
+15362,Entry Level Sales,05/11/2000,11/15/2003
+15362,Retail Associate,11/15/2003,11/15/2009
+15362,Sales Representative,11/15/2009,10/21/2014
+15362,Sales Lead,10/21/2014,01/01/9999
+11793,Research Technician,06/14/1999,02/22/2004
+11793,Research Associate,02/22/2004,05/16/2010
+11793,Senior Research Associate,05/16/2010,12/16/2014
+11793,Research Manager,12/16/2014,01/01/9999
+15531,Research Technician,02/28/2001,06/17/2004
+15531,Research Associate,06/17/2004,02/25/2010
+15531,Senior Research Associate,02/25/2010,09/28/2014
+15531,Research Manager,09/28/2014,01/01/9999
+13304,Research Technician,09/29/2000,06/23/2004
+13304,Research Associate,06/23/2004,03/20/2010
+13304,Senior Research Associate,03/20/2010,08/17/2014
+13304,Research Manager,08/17/2014,01/01/9999
+11608,Research Technician,05/06/2000,11/18/2003
+11608,Research Associate,11/18/2003,04/26/2010
+11608,Senior Research Associate,04/26/2010,05/14/2015
+11608,Research Manager,05/14/2015,01/01/9999
+15094,Research Technician,08/28/2001,11/05/2003
+15094,Research Associate,11/05/2003,07/05/2009
+15094,Senior Research Associate,07/05/2009,09/23/2014
+15094,Research Manager,09/23/2014,01/01/9999
+10983,Research Technician,09/12/1999,08/05/2003
+10983,Research Associate,08/05/2003,09/25/2009
+10983,Senior Research Associate,09/25/2009,12/20/2014
+10983,Research Manager,12/20/2014,01/01/9999
+10868,Research Technician,04/14/2000,06/15/2003
+10868,Research Associate,06/15/2003,03/06/2010
+10868,Senior Research Associate,03/06/2010,09/20/2014
+10868,Research Manager,09/20/2014,01/01/9999
+16006,Research Technician,11/12/1999,05/14/2004
+16006,Research Associate,05/14/2004,06/06/2009
+16006,Senior Research Associate,06/06/2009,02/16/2015
+16006,Research Manager,02/16/2015,01/01/9999
+11990,Research Technician,03/02/2000,05/11/2004
+11990,Research Associate,05/11/2004,01/09/2010
+11990,Senior Research Associate,01/09/2010,06/18/2014
+11990,Research Manager,06/18/2014,01/01/9999
+19567,Research Technician,01/11/2001,09/30/2003
+19567,Research Associate,09/30/2003,07/23/2009
+19567,Senior Research Associate,07/23/2009,02/07/2015
+19567,Research Manager,02/07/2015,01/01/9999
+11134,Research Technician,03/15/1999,02/11/2004
+11134,Research Associate,02/11/2004,09/01/2009
+11134,Senior Research Associate,09/01/2009,11/06/2014
+11134,Research Manager,11/06/2014,01/01/9999
+14244,Research Technician,07/27/2001,06/24/2004
+14244,Research Associate,06/24/2004,08/30/2009
+14244,Senior Research Associate,08/30/2009,06/19/2015
+14244,Research Manager,06/19/2015,01/01/9999
+17290,Research Technician,09/11/2002,09/08/2003
+17290,Research Associate,09/08/2003,06/15/2009
+17290,Senior Research Associate,06/15/2009,06/27/2015
+17290,Research Manager,06/27/2015,01/01/9999
+16149,Research Technician,07/02/2002,10/03/2003
+16149,Research Associate,10/03/2003,07/30/2009
+16149,Senior Research Associate,07/30/2009,02/20/2015
+16149,Research Manager,02/20/2015,01/01/9999
+15433,Research Technician,07/25/1999,06/07/2004
+15433,Research Associate,06/07/2004,11/01/2009
+15433,Senior Research Associate,11/01/2009,01/16/2015
+15433,Research Manager,01/16/2015,01/01/9999
+16705,Research Technician,06/18/2001,12/10/2003
+16705,Research Associate,12/10/2003,05/30/2010
+16705,Senior Research Associate,05/30/2010,08/23/2014
+16705,Research Manager,08/23/2014,01/01/9999
+11790,Research Technician,03/11/2002,02/28/2004
+11790,Research Associate,02/28/2004,02/01/2010
+11790,Senior Research Associate,02/01/2010,10/02/2014
+11790,Research Manager,10/02/2014,01/01/9999
+10765,Research Technician,10/29/2001,04/18/2004
+10765,Research Associate,04/18/2004,03/04/2010
+10765,Senior Research Associate,03/04/2010,06/16/2015
+10765,Research Manager,06/16/2015,01/01/9999
+17586,Research Technician,05/23/2002,12/07/2003
+17586,Research Associate,12/07/2003,01/10/2010
+17586,Senior Research Associate,01/10/2010,10/22/2014
+17586,Research Manager,10/22/2014,01/01/9999
+11738,Research Technician,04/22/2000,02/16/2004
+11738,Research Associate,02/16/2004,01/04/2010
+11738,Senior Research Associate,01/04/2010,01/30/2015
+11738,Research Manager,01/30/2015,01/01/9999
+11458,Research Technician,08/27/2001,11/14/2003
+11458,Research Associate,11/14/2003,10/25/2009
+11458,Senior Research Associate,10/25/2009,04/25/2015
+11458,Research Manager,04/25/2015,01/01/9999
+16510,Research Technician,08/07/1999,03/29/2004
+16510,Research Associate,03/29/2004,06/17/2010
+16510,Senior Research Associate,06/17/2010,05/24/2015
+16510,Research Manager,05/24/2015,01/01/9999
+16208,Research Technician,01/29/2000,06/27/2004
+16208,Research Associate,06/27/2004,08/10/2009
+16208,Senior Research Associate,08/10/2009,04/27/2015
+16208,Research Manager,04/27/2015,01/01/9999
+10180,Research Technician,11/24/2001,01/05/2004
+10180,Research Associate,01/05/2004,05/12/2010
+10180,Senior Research Associate,05/12/2010,10/01/2014
+10180,Research Manager,10/01/2014,01/01/9999
+17723,Research Technician,11/15/2000,10/26/2003
+17723,Research Associate,10/26/2003,08/01/2009
+17723,Senior Research Associate,08/01/2009,07/01/2015
+17723,Research Manager,07/01/2015,01/01/9999
+15599,Research Technician,08/25/2001,12/19/2003
+15599,Research Associate,12/19/2003,05/29/2010
+15599,Senior Research Associate,05/29/2010,09/15/2014
+15599,Research Manager,09/15/2014,01/01/9999
+14795,Research Technician,12/06/1999,04/17/2004
+14795,Research Associate,04/17/2004,06/20/2009
+14795,Senior Research Associate,06/20/2009,08/27/2014
+14795,Research Manager,08/27/2014,01/01/9999
+15452,Research Technician,03/01/1999,04/03/2004
+15452,Research Associate,04/03/2004,09/08/2009
+15452,Senior Research Associate,09/08/2009,07/05/2015
+15452,Research Manager,07/05/2015,01/01/9999
+12342,Customer Service Call Center,04/16/2000,10/20/2003
+12342,Customer Service Associate,10/20/2003,10/15/2009
+12342,Customer Service Representative,10/15/2009,08/26/2014
+12342,Customer Service Manager,08/26/2014,01/01/9999
+14463,Customer Service Call Center,01/22/2002,02/05/2004
+14463,Customer Service Associate,02/05/2004,03/05/2010
+14463,Customer Service Representative,03/05/2010,04/20/2015
+14463,Customer Service Manager,04/20/2015,01/01/9999
+18308,Customer Service Call Center,06/15/2002,05/01/2004
+18308,Customer Service Associate,05/01/2004,07/08/2009
+18308,Customer Service Representative,07/08/2009,08/14/2014
+18308,Customer Service Manager,08/14/2014,01/01/9999
+18678,Customer Service Call Center,12/18/2002,05/17/2004
+18678,Customer Service Associate,05/17/2004,06/28/2010
+18678,Customer Service Representative,06/28/2010,01/18/2015
+18678,Customer Service Manager,01/18/2015,01/01/9999
+13267,Customer Service Call Center,05/27/2002,09/11/2003
+13267,Customer Service Associate,09/11/2003,07/23/2009
+13267,Customer Service Representative,07/23/2009,02/06/2015
+13267,Customer Service Manager,02/06/2015,01/01/9999
+11932,Customer Service Call Center,10/31/1999,08/23/2003
+11932,Customer Service Associate,08/23/2003,04/26/2010
+11932,Customer Service Representative,04/26/2010,06/25/2015
+11932,Customer Service Manager,06/25/2015,01/01/9999
+10292,Customer Service Call Center,11/27/2002,07/04/2004
+10292,Customer Service Associate,07/04/2004,03/01/2010
+10292,Customer Service Representative,03/01/2010,12/12/2014
+10292,Customer Service Manager,12/12/2014,01/01/9999
+15473,Customer Service Call Center,04/19/2003,04/27/2004
+15473,Customer Service Associate,04/27/2004,04/02/2010
+15473,Customer Service Representative,04/02/2010,02/01/2015
+15473,Customer Service Manager,02/01/2015,01/01/9999
+17854,Customer Service Call Center,12/16/2000,01/27/2004
+17854,Customer Service Associate,01/27/2004,04/03/2010
+17854,Customer Service Representative,04/03/2010,02/05/2015
+17854,Customer Service Manager,02/05/2015,01/01/9999
+17872,Customer Service Call Center,04/04/1999,03/10/2004
+17872,Customer Service Associate,03/10/2004,09/16/2009
+17872,Customer Service Representative,09/16/2009,07/12/2014
+17872,Customer Service Manager,07/12/2014,01/01/9999
+13928,Customer Service Call Center,11/30/1998,08/18/2003
+13928,Customer Service Associate,08/18/2003,03/23/2010
+13928,Customer Service Representative,03/23/2010,01/27/2015
+13928,Customer Service Manager,01/27/2015,01/01/9999
+14150,Customer Service Call Center,01/12/2003,09/27/2003
+14150,Customer Service Associate,09/27/2003,06/27/2009
+14150,Customer Service Representative,06/27/2009,08/26/2014
+14150,Customer Service Manager,08/26/2014,01/01/9999
+16958,Customer Service Call Center,05/01/2000,11/04/2003
+16958,Customer Service Associate,11/04/2003,03/07/2010
+16958,Customer Service Representative,03/07/2010,08/18/2014
+16958,Customer Service Manager,08/18/2014,01/01/9999
+18733,Customer Service Call Center,03/27/2000,03/10/2004
+18733,Customer Service Associate,03/10/2004,11/12/2009
+18733,Customer Service Representative,11/12/2009,08/07/2014
+18733,Customer Service Manager,08/07/2014,01/01/9999
+15999,Customer Service Call Center,04/06/1999,10/03/2003
+15999,Customer Service Associate,10/03/2003,09/19/2009
+15999,Customer Service Representative,09/19/2009,01/01/2015
+15999,Customer Service Manager,01/01/2015,01/01/9999
+11922,Customer Service Call Center,03/08/2003,03/06/2004
+11922,Customer Service Associate,03/06/2004,12/01/2009
+11922,Customer Service Representative,12/01/2009,07/01/2014
+11922,Customer Service Manager,07/01/2014,01/01/9999
+10053,Customer Service Call Center,01/17/2001,09/12/2003
+10053,Customer Service Associate,09/12/2003,06/29/2009
+10053,Customer Service Representative,06/29/2009,05/05/2015
+10053,Customer Service Manager,05/05/2015,01/01/9999
+18894,Customer Service Call Center,09/10/1999,07/02/2004
+18894,Customer Service Associate,07/02/2004,09/11/2009
+18894,Customer Service Representative,09/11/2009,06/29/2015
+18894,Customer Service Manager,06/29/2015,01/01/9999
+13187,Customer Service Call Center,02/20/2003,09/10/2003
+13187,Customer Service Associate,09/10/2003,01/26/2010
+13187,Customer Service Representative,01/26/2010,01/28/2015
+13187,Customer Service Manager,01/28/2015,01/01/9999
+11898,Customer Service Call Center,09/22/2001,04/02/2004
+11898,Customer Service Associate,04/02/2004,02/03/2010
+11898,Customer Service Representative,02/03/2010,10/13/2014
+11898,Customer Service Manager,10/13/2014,01/01/9999
+18746,Customer Service Call Center,11/13/2002,09/25/2003
+18746,Customer Service Associate,09/25/2003,05/07/2010
+18746,Customer Service Representative,05/07/2010,06/10/2015
+18746,Customer Service Manager,06/10/2015,01/01/9999
+12801,Customer Service Call Center,06/27/2000,08/19/2003
+12801,Customer Service Associate,08/19/2003,11/28/2009
+12801,Customer Service Representative,11/28/2009,01/17/2015
+12801,Customer Service Manager,01/17/2015,01/01/9999
+18980,Customer Service Call Center,04/01/2000,01/09/2004
+18980,Customer Service Associate,01/09/2004,01/25/2010
+18980,Customer Service Representative,01/25/2010,08/19/2014
+18980,Customer Service Manager,08/19/2014,01/01/9999
+12950,Customer Service Call Center,07/18/2000,07/05/2004
+12950,Customer Service Associate,07/05/2004,02/10/2010
+12950,Customer Service Representative,02/10/2010,07/19/2014
+12950,Customer Service Manager,07/19/2014,01/01/9999
+19624,Customer Service Call Center,06/06/2001,11/08/2003
+19624,Customer Service Associate,11/08/2003,12/13/2009
+19624,Customer Service Representative,12/13/2009,06/25/2014
+19624,Customer Service Manager,06/25/2014,01/01/9999
+18313,Customer Service Call Center,02/09/1999,03/10/2004
+18313,Customer Service Associate,03/10/2004,03/09/2010
+18313,Customer Service Representative,03/09/2010,01/27/2015
+18313,Customer Service Manager,01/27/2015,01/01/9999
+10864,Customer Service Call Center,11/24/2001,06/02/2004
+10864,Customer Service Associate,06/02/2004,06/15/2009
+10864,Customer Service Representative,06/15/2009,03/14/2015
+10864,Customer Service Manager,03/14/2015,01/01/9999
+14953,Customer Service Call Center,10/23/1999,07/17/2003
+14953,Customer Service Associate,07/17/2003,04/02/2010
+14953,Customer Service Representative,04/02/2010,08/24/2014
+14953,Customer Service Manager,08/24/2014,01/01/9999
+19144,Communications Manager,2/16/1999,01/01/9999
+14660,Finance Management,12/7/1998,01/01/9999
+16956,Production Manager,10/4/2000,01/01/9999
+14664,Development Project Manager,1/14/1999,01/01/9999
+10330,Customer Service Manager,3/19/2001,01/01/9999
